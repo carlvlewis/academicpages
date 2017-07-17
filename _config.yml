@@ -15,7 +15,7 @@ url                      : https://carlvlewis.github.io # the base hostname & pr
 baseurl                  : "/academicpages" # the subpath of your site, e.g. "/blog"
 repository               : "carlvlewis/academicpages"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : true # true, false (default)
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 50
 comments:
   provider               : disqus
@@ -79,36 +79,36 @@ analytics:
 author:
   name             : "Carl V. Lewis"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "data visualization, civic-tech, urbanism, digital humanities, HCI"
   location         : "Location"
   employer         : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : 
+  email            : "hello@carlvlew.is"
   uri              : 
   bitbucket        :
-  codepen          :
+  codepen          : carlvlewis
   dribbble         :
-  flickr           :
+  flickr           : 
   facebook         : 
   foursquare       :
-  github           : "academicpages"
+  github           : "carlvlewis"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         :
+  linkedin         : carlvlewis
   orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
+  pinterest        : carlvlewis
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "carlvlewis"
   vine             :
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : 
+  wikipedia        : carlvlewis
 
 
 # Reading Files
