@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Data Storytelli.ng"
+title                    : "DataStorytelli.ng"
 title_separator          : "-"
 name                     : &name "Carl V. Lewis"
 description              : &description "data visualizatioh, civic-tech, digital humanities, HCI"
@@ -15,12 +15,12 @@ url                      : https://carlvlewis.github.io # the base hostname & pr
 baseurl                  : "/academicpages" # the subpath of your site, e.g. "/blog"
 repository               : "carlvlewis/academicpages"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
+breadcrumbs              : true # true, false (default)
+words_per_minute         : 50
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : disqus
   disqus:
-    shortname            :
+    shortname            : carlvlewis
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -77,7 +77,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Carl V. Lewis"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"

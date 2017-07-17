@@ -131,7 +131,6 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed
-  jekyll-sitemap
 
 BUNDLED WITH
-   1.12.5
+   1.15.1
